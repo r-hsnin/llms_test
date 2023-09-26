@@ -1,3 +1,5 @@
+# llama-cpp-pythonのhttpサーバー機能を使用するテスト
+
 import openai
 
 openai.api_base = 'http://localhost:8000/v1'
